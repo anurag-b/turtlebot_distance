@@ -1,0 +1,8 @@
+prefix=/home/dark_knight/ros_prac/catkin_ws_p1/install
+
+Name: p1
+Description: Description of p1
+Version: 0.0.0
+Cflags: -I/home/dark_knight/ros_prac/catkin_ws_p1/install/include
+Libs: -L/home/dark_knight/ros_prac/catkin_ws_p1/install/lib 
+Requires: nav_msgs roscpp rospy message_runtime

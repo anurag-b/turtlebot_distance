@@ -1,0 +1,8 @@
+prefix=/home/anuragb/ros_prac/catkin_ws_p1/src/p1/install
+
+Name: catkin_tools_prebuild
+Description: Description of catkin_tools_prebuild
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/anuragb/ros_prac/catkin_ws_p1/src/p1/install/lib 
+Requires: 

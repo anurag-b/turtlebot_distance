@@ -1,0 +1,8 @@
+Symlinking /home/anuragb/ros_prac/catkin_ws_p1/src/p1/devel/./env.sh
+Symlinking /home/anuragb/ros_prac/catkin_ws_p1/src/p1/devel/./setup.zsh
+Symlinking /home/anuragb/ros_prac/catkin_ws_p1/src/p1/devel/./setup.bash
+Symlinking /home/anuragb/ros_prac/catkin_ws_p1/src/p1/devel/./_setup_util.py
+Symlinking /home/anuragb/ros_prac/catkin_ws_p1/src/p1/devel/./setup.sh
+Symlinking /home/anuragb/ros_prac/catkin_ws_p1/src/p1/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/anuragb/ros_prac/catkin_ws_p1/src/p1/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/anuragb/ros_prac/catkin_ws_p1/src/p1/devel/lib/pkgconfig/catkin_tools_prebuild.pc

@@ -1,0 +1,2 @@
+p1
+-DCATKIN_DEVEL_PREFIX=/home/dark_knight/ros_prac/catkin_ws_p1/devel -DCMAKE_INSTALL_PREFIX=/home/dark_knight/ros_prac/catkin_ws_p1/install -G Unix Makefiles

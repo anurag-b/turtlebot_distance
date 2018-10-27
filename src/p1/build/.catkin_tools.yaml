@@ -1,0 +1,6 @@
+devel_space: /home/anuragb/ros_prac/catkin_ws_p1/src/p1/devel
+install: false
+install_space: /home/anuragb/ros_prac/catkin_ws_p1/src/p1/install
+profile: default
+source_space: /home/anuragb/ros_prac/catkin_ws_p1/src/p1/src
+workspace: /home/anuragb/ros_prac/catkin_ws_p1/src/p1
